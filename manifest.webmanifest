@@ -1,0 +1,33 @@
+{
+  "name": "Portal Vento · Agencia 16025",
+  "short_name": "Portal Vento",
+  "description": "Herramientas de la Agencia Vento Chalco: Evaluaciones y Expedientes.",
+  "lang": "es-MX",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f7f3ec",
+  "background_color": "#f7f3ec",
+  "icons": [
+    {
+      "src": "iconos/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "iconos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "iconos/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
