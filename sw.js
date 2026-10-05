@@ -2,7 +2,7 @@
    Red primero: siempre se pide la versión más nueva; la copia guardada solo
    se usa sin señal. Solo archivos de este sitio.
    Al publicar cambios, sube el número de VERSION. */
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = 'portal-vento-' + VERSION;
 const ARCHIVOS = ['./', './index.html', './manifest.webmanifest',
   './iconos/icon-192.png', './iconos/icon-512.png', './iconos/icon-maskable-512.png',
